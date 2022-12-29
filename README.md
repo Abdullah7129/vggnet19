@@ -1,6 +1,6 @@
 # vggnet19
 
-Yazılan kodla birlikte cnn mimarisini kullanan vgg19  sinir ağ modelinin hayvan ırklarına göre sınıflandırmasını inceliyeceğiz.
+Cnn mimarisini kullanan vgg19 sinir ağ modelinin imageNet veri setine  göre sınıflandırmasını inceliyeceğiz.
 
 224X224X3  boyutunda girdi resmi kullanılmalıdır.
 
